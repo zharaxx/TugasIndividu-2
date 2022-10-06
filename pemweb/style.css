@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    position: absolute;
+    left: 35%;
+    top: 30%;
+    padding: 20px 25px;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px rgba(19, 43, 163, 0.7);
+
+    background-color: aquamarine;
+    
+}
+
+.container .text-input{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.container h2 {
+    font-family: monospace;
+    font-size: 24px;
+}
+#grad {
+    height: 602px;
+    background-color: black;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+}
